@@ -1,0 +1,15 @@
+E:\tatv soft\BookEStores\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.deps.json
+E:\tatv soft\BookEStores\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.dll
+E:\tatv soft\BookEStores\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.pdb
+E:\tatv soft\BookEStores\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.dll
+E:\tatv soft\BookEStores\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.pdb
+E:\tatv soft\BookEStores\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+E:\tatv soft\BookEStores\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\tatv soft\BookEStores\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+E:\tatv soft\BookEStores\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+E:\tatv soft\BookEStores\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+E:\tatv soft\BookEStores\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CopyComplete
+E:\tatv soft\BookEStores\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.dll
+E:\tatv soft\BookEStores\BookStore.Repository\obj\Debug\net5.0\refint\BookStore.Repository.dll
+E:\tatv soft\BookEStores\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.pdb
+E:\tatv soft\BookEStores\BookStore.Repository\obj\Debug\net5.0\ref\BookStore.Repository.dll
